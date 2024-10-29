@@ -7,8 +7,8 @@
 - 💞️ I’m looking to collaborate on **AI/ML projects**, **electronics-based embedded systems**, **Linux server setup** tasks, and **open-source cybersecurity tools**. 
 
 - 📫 How to reach me:  
-  **LinkedIn**: [Connect with me](https://linkedin.com)  
-  **Email**: prabin@xyzmail.com  
+  **LinkedIn**: [Connect with me]([https://linkedin.com](https://www.linkedin.com/in/prabin-chandra-gautam-42126b2b3/))  
+  **Email**: prabinchandr07@gmail.com 
 
 - 😄 Pronouns: **She/Her**  
 

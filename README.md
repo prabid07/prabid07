@@ -10,6 +10,6 @@
   **LinkedIn**: (https://www.linkedin.com/in/prabin-chandra-gautam-42126b2b3/) 
   **Email**: prabinchandr07@gmail.com 
 
-- 😄 Pronouns: **She/Her**  
+- 😄 Pronouns: **Him/He**  
 
 - ⚡ Fun fact: I am both a hardware and software enthusiast, actively bridging my passion for **robotics**, **microcontrollers**, and **AI** with the ambition to  inspire others to achieve their dreams. 
